@@ -23,7 +23,23 @@ body{
 .celular{
   background-color: #F7B617;
 }
-.col-sm-10{
-  padding: 55px;
+.col-lg-6{
   border: 1px solid #fff;
 }
+.celularTotal{
+  background-color: #fff;
+}
+
+.conduce{
+  position: absolute;
+  left: 50%;
+  top: 90%;
+  color: #fff;
+}
+/*
+.conducir{
+  padding: 10px 30px;
+  background-color: #F7B617;
+  width: 400px;
+  height: 350px;
+}*/
