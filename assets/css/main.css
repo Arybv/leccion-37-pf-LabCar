@@ -18,6 +18,12 @@ body{
 .login{
   color: #fff;
 }
+.conductor{
+  position: absolute;
+  left: 50%;
+  top: 90%;
+  color: #fff;
+}
 
 /* CELULAR */
 .celular{
@@ -32,13 +38,26 @@ body{
   border-left: none;
 }
 
-
-
-.conductor{
+.conduce{
+  position: relative;
+  width: 100%;
+}
+.conducir{
   position: absolute;
-  left: 50%;
-  top: 90%;
+  left: 34%;
+  top: 250%;
   color: #fff;
+  width: 200px;
+  height: 100px;
+}
+.conductor{
+  padding: 20px;
+  background-color: #643A56;
+  width: 320px;
+}
+.naranja{
+  background-color: #F7B617;
+
 }
 /*
 .conducir{
