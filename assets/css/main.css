@@ -52,17 +52,15 @@ body{
 }
 .conductor{
   padding: 20px;
-  background-color: #643A56;
   width: 320px;
 }
-.naranja{
-  background-color: #F7B617;
 
-}
-/*
-.conducir{
-  padding: 10px 30px;
+/* TARIFA */
+.tarifa{
+  padding: 20px;
   background-color: #F7B617;
-  width: 400px;
-  height: 350px;
-}*/
+  color: #fff;
+}
+.form-control{
+  background-color: #F7B617;
+}
