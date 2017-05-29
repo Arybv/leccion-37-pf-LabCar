@@ -23,8 +23,16 @@ body{
 .celular{
   padding: 20px;
   background-color: #F7B617;
+  border: 1px solid #fff;
   color: #fff;
 }
+.descarga{
+  padding: 20px;
+  border: 1px solid #fff;
+  border-left: none;
+}
+
+
 
 .conductor{
   position: absolute;
