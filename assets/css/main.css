@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+.taxi{
+  position: relative;
+  width: 100%;
+}
+.hero{
+  position: absolute;
+  color: #fff;
+}
+.taxis{
+  padding: 10px 30px;
+  background-color: #F7B617;
+  width: 400px;
+  height: 350px;
+}
+.login{
+  color: #fff;
+}
+
+
+@media (min-width:450px){
+  
+
+}
