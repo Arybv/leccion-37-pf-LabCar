@@ -20,8 +20,10 @@ body{
   color: #fff;
 }
 
-
-@media (min-width:450px){
-  
-
+.celular{
+  background-color: #F7B617;
+}
+.col-sm-10{
+  padding: 55px;
+  border: 1px solid #fff;
 }
