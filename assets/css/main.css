@@ -2,35 +2,31 @@ body{
   margin: 0;
   padding: 0;
 }
+/* HERO */
 .taxi{
   position: relative;
   width: 100%;
-}
-.hero{
-  position: absolute;
-  color: #fff;
 }
 .taxis{
   padding: 10px 30px;
   background-color: #F7B617;
   width: 400px;
   height: 350px;
+  position: absolute;
+  color: #fff;
 }
 .login{
   color: #fff;
 }
 
+/* CELULAR */
 .celular{
+  padding: 20px;
   background-color: #F7B617;
-}
-.col-lg-6{
-  border: 1px solid #fff;
-}
-.celularTotal{
-  background-color: #fff;
+  color: #fff;
 }
 
-.conduce{
+.conductor{
   position: absolute;
   left: 50%;
   top: 90%;
